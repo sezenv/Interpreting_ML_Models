@@ -7,4 +7,4 @@ https://github.com/PatWalters/practicalcheminformatics/blob/master/_notebooks/20
 The reference paper for the idea of the critical assessment of model interpretability as well as the sample input data is below: \
 Matveieva M, Polishchuk P. Benchmarks for interpretation of QSAR models. Journal of Cheminformatics. 2021 Dec;13(1):1-20. https://doi.org/10.1186/s13321-021-00519-x \
 Github repository for the input datasets: \
-https://github.com/ci-lab-cz/ibenchmark/tree/master/Datasets \
+https://github.com/ci-lab-cz/ibenchmark/tree/master/Datasets
